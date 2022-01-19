@@ -33,7 +33,7 @@ body, html {
 .user {
     position: relative;
     right: 110px;
-    top: 60px;
+    top: 48px;
 
     opacity: 80%;
 }
@@ -41,7 +41,7 @@ body, html {
 .lock {
     position: relative;
     right: 110px;
-    top: 60px;
+    top: 48px;
 
     opacity: 80%;
 }
@@ -49,14 +49,14 @@ body, html {
 .email {
     position: relative;
     right: 110px;
-    top: 60px;
+    top: 48px;
 
     opacity: 80%; 
 }
 
 input {
     width: 250px;
-    height: 50px;
+    height: 30px;
     margin-top: 30px;
     outline: none;
     background-color: transparent;
